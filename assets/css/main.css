@@ -2375,7 +2375,7 @@ input, select, textarea {
 				background-image: url("images/overlay.png"), url("../../images/bg-alt.jpg");
 				background-repeat: repeat, no-repeat;
 				background-size: auto, 100% cover;
-				background-position: top left, center;
+				background-position: top left, cover;
 				background-attachment: scroll, scroll;
 				font-size: 14pt;
 			}
