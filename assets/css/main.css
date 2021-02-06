@@ -2385,6 +2385,11 @@ input, select, textarea {
 				font-size: 14pt;
 			}
 
+			#team
+			{
+				width: 100%;
+			}
+
 			input, textarea, select {
 				font-size: 14pt;
 			}
@@ -2647,6 +2652,11 @@ input, select, textarea {
 						font-size: 1.5em;
 						letter-spacing: 6px;
 					}
+
+			#team
+			{
+				width: 100%;
+			}
 
 		/* Footer */
 
