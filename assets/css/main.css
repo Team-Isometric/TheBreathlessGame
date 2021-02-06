@@ -2093,6 +2093,11 @@ input, select, textarea {
 
 /* Banner */
 
+	#team
+	{
+		width: 50%;
+	}
+
 	#banner {
 		position: relative;
 		color: #fff;
